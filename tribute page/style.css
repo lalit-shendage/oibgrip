@@ -1,0 +1,55 @@
+body{
+ background-image:url(bg.jfif);
+ background-repeat: no-repeat;
+ background-size: cover;
+ text-align: center;
+}
+ 
+#heading {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    opacity: 0.8;
+    border-radius: 0.3em;
+    margin: 3.5em;
+    background-color: rgb(160, 211, 211);
+}
+#pic{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    border-radius: 10%;
+    height: 20vh;
+    width: 25vh;
+}
+
+#outer{
+    color: antiquewhite;
+    margin: 10%;
+    margin-top: 1%;
+    border: 2px;
+    text-align: center;
+}
+
+#inner1{
+    background-color: rgb(23, 20, 31);
+    opacity: 0.85;
+    box-shadow: 0px 0px 6px 4px ghostwhite;
+}
+#inner2{
+    margin-top: 5%;
+    background-color: rgb(32, 30, 40);
+    opacity: 0.85;
+    box-shadow: 0px 0px 6px 4px ghostwhite;
+}
+#inner3{
+    margin-top: 5%;
+    background-color: rgb(32, 30, 40);
+    opacity: 0.85;
+    box-shadow: 0px 0px 6px 4px ghostwhite;
+}
+#footer{
+    color: aqua;
+    margin-top: 5%;
+    background-color: rgb(151, 95, 95);
+    opacity: 0.85;
+    box-shadow: 0px 0px 6px 4px ghostwhite;
+}
